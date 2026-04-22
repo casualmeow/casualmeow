@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Gleb aka casualmeow! 👋
 
-<!--
-**casualmeow/casualmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me:
+- 🚀 "Time waster expert", casual coder with a passion for web development
+- 🔭 Focused on creating projects that showcase both frontend and backend skills
+- 🌱 Constantly learning and exploring new technologies
+- 💬 I enjoy collaborating and connecting with fellow developers
 
-Here are some ideas to get you started:
+### Top Skills:
+- 💻 TypeScript
+- 💻 JavaScript
+- 💻 CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats:
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=casualmeow)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casualmeow)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=casualmeow)](https://github.com/casualmeow)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=casualmeow)](https://git.io/streak-stats)
+
+### My Projects:
+- [mock-config](https://github.com/casualmeow/mock-config)
+- [bratatui-web](https://github.com/casualmeow/bratatui-web)
+- [dl-gen](https://github.com/casualmeow/dl-gen)
+
+### Let's Connect:
+- 📫 Email me at gleb@example.com
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/gleb-casualmeow/)
+- 🐱 Follow me on [Twitter](https://twitter.com/casualmeow)
+
+### Miscellaneous:
+- ⚡ Hireable: Yes
+- 🔥 Open to collaborations and new opportunities
+
+---
+
+Feel free to explore my projects and reach out for any inquiries or collaboration opportunities! Let's connect and code together. 🚀
