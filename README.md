@@ -1,4 +1,4 @@
-## Hi there, I'm Gleb aka casualmeow! 👋
+## Hi there, I'm Gleb! 👋
 
 ### About Me:
 - 🚀 "Time waster expert", casual coder with a passion for web development
