@@ -23,9 +23,9 @@
 - [dl-gen](https://github.com/casualmeow/dl-gen)
 
 ### Let's Connect:
-- 📫 Email me at gleb@example.com
-- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/gleb-casualmeow/)
-- 🐱 Follow me on [Twitter](https://twitter.com/casualmeow)
+- 📫 Email me at gleb.snurnikov@gmail.com
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/gleb-snurnikov/)
+- 🐱 Follow me on [Telegram](t.me/requirefs)
 
 ### Miscellaneous:
 - ⚡ Hireable: Yes
