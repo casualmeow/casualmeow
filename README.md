@@ -14,7 +14,6 @@
 ### GitHub Stats:
 - ![Github Stats](https://github-readme-stats.vercel.app/api?username=casualmeow)
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casualmeow)
-- [![trophy](https://github-profile-trophy.vercel.app/?username=casualmeow)](https://github.com/casualmeow)
 - [![GitHub Streak](https://streak-stats.demolab.com/?user=casualmeow)](https://git.io/streak-stats)
 
 ### My Projects:
